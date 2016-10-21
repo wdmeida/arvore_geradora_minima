@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1435714841 source:c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafo.h"
+
+1435714841 c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\grafo.h
+	"Lista.h"
+
+1435714841 c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\lista.h
+	"Lista.h"
+
+1435714841 source:c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1435714841 source:c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafo.h"
+
+1435539835 source:c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\controle_prim.c
+
+1435627249 c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\controle_cidades.h
+	"grafo.h"
+
+1435628296 source:c:\users\wagner\documents\github\faculdade\3º período\estrutura de dados ii\tp iii\arvore_geradora_minima_tp3\controle_cidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controle_cidades.h"
+
+1435632827 source:/home/wagner/Documentos/Arvore_Geradora_Minima_tp3/grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafo.h"
+
+1435632380 /home/wagner/Documentos/Arvore_Geradora_Minima_tp3/grafo.h
+	"Lista.h"
+
+1435632867 /home/wagner/Documentos/Arvore_Geradora_Minima_tp3/Lista.h
+	"Lista.h"
+
+1435632890 source:/home/wagner/Documentos/Arvore_Geradora_Minima_tp3/Lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1435633842 source:/home/wagner/Documentos/Arvore_Geradora_Minima_tp3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafo.h"
+
+1435632846 /home/wagner/Documentos/Arvore_Geradora_Minima_tp3/controle_cidades.h
+	"grafo.h"
+
+1435633169 source:/home/wagner/Documentos/Arvore_Geradora_Minima_tp3/controle_cidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controle_cidades.h"
+
